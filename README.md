@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-      
+     Almula Begüm Koyuncu 
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
@@ -72,6 +72,3 @@
 </footer>
 </body>
 </html>
-
-
-
