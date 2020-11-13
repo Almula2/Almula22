@@ -2,7 +2,7 @@
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
-    <title>Almula Begüm Koyuncu</title>
+    
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
