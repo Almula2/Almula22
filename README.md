@@ -10,15 +10,12 @@
     <img src="image/kedi.jpeg" width="300" alt="Almula Begüm Koyuncu"/>
     <nav>
         <ul>
-		 background-color: #66FFFF;
+		 
             <li><a href="#summary">Özet</a></li>
             <li><a href="#education">Eğitim</a></li>
             <li><a href="#skills">Yetenekler</a></li>
             <li><a href="#contact">İletişim</a></li>
-			<li><a href="#hayaller">Hayaller</a></li>
-
-       </nav>  
-       </ul>
+			<li><a href="#hayaller">Hayaller</a></li
    
 </header>
 <main>
